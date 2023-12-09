@@ -5,6 +5,7 @@
 
 <!-- Any general commentary you'd like to say about the project --> 
 
+
 ### Task 1
 
 * Files for this task: 
@@ -57,7 +58,7 @@ When calculating relative difference, use the formula
 
 |  Query  |  Your Results  |  John's Results | Difference | Rel. Diff | 
 |---|---|---|---|---|
-| Total Rows  |   |   |   |   |
+| Total Rows  | 5  |   |   |   |
 | January 2012 Rows  |   |   |   |   |
 | October 2012 Rows  |   |   |   |   |
 | Month with Fewest  |   |   | Yes/No  | NA  |
