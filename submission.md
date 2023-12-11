@@ -13,20 +13,14 @@ Files for this task:
 
 #### Raw Data Files
 
-* WedgeZipOfZips_Big
-* extracted_zips_big
-* clean_csvs
+* WedgeZipOfZips_Big: the source files that are compreessed and in separate folders
+* extracted_zips_big: the files from the above that are un-compressed and in a .csv 
+* clean_csvs: the files whith the cleaning completed on turned into a .txt
 
 #### Code Files
 
-* Task 1.ipynb: Loads all data into GBQ data set.
-
-`File1 Name`: 
-Description of what this file does.
-
-WedgeZipOfZips_Big - the source files that are compreessed and in seperate folders
-extracted_zips_big - the files from the above that are un-compressed and in a .csv
-clean_csvs - the files whith the cleaning completed on turned into a .txt
+`Task 1.ipynb`: 
+Loads all data into GBQ data set.
 
 
 
