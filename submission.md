@@ -8,12 +8,18 @@ General commentary.  This was a difficult project that I learned and grew with.
 
 ### Task 1
 
-* Files for this task: 
+Files for this task: 
 <!--  List of file or files here  --> 
-WedgeZipOfZips_Big
-extracted_zips_big
-clean_csvs
-Loads all data into GBQ data set.
+
+#### Raw Data Files
+
+* WedgeZipOfZips_Big
+* extracted_zips_big
+* clean_csvs
+
+#### Code Files
+
+* Task 1.ipynb: Loads all data into GBQ data set.
 
 `File1 Name`: 
 Description of what this file does.
