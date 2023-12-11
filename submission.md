@@ -64,12 +64,12 @@ When calculating relative difference, use the formula
 |  Query  |  Your Results  |  John's Results | Difference | Rel. Diff | 
 |---|---|---|---|---|
 | Total Rows  |85,760,139|85,760,139|0|0%|
-| January 2012 Rows  |1,070,907|1,070,907|   |   |
-| October 2012 Rows  |   |   |   |   |
-| Month with Fewest  |   |   | Yes/No  | NA  |
-| Num Rows in Month with Fewest  |   |   |   |   |
-| Month with Most  |   |   | Yes/No  | NA  |
-| Num Rows in Month with Most  |   |   |   |   |
+| January 2012 Rows  |1,070,907|1,070,907|0|0%|
+| October 2012 Rows  |1,042,287|1,042,287|0|0%|
+| Month with Fewest  |February|February|No|NA|
+| Num Rows in Month with Fewest  |6,556,770|6,556,770|0|0%|
+| Month with Most  |May|May|No|NA|
+| Num Rows in Month with Most  |7,578,372|7,578,372|No|NA|
 | Null_TS  |   |   |   |   |
 | Null_DT  |   |   |   |   |
 | Null_Local  |   |   |   |   |
