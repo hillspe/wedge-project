@@ -70,23 +70,24 @@ When calculating relative difference, use the formula
 | Num Rows in Month with Fewest  |6,556,770|6,556,770|0|0%|
 | Month with Most  |May|May|No|NA|
 | Num Rows in Month with Most  |7,578,372|7,578,372|No|NA|
-| Null_TS  |   |   |   |   |
-| Null_DT  |   |   |   |   |
-| Null_Local  |   |   |   |   |
-| Null_CN  |   |   |   |   |
-| Num 5 on High Volume Cards  |   |   | Yes/No  | NA  |
-|  Num Rows for Number 5 |   |   |   |   |
-| Num Rows for 18736  |   |   |   |   |
-| Product with Most Rows  |   |   | Yes/No  | NA  |
-| Num Rows for that Product  |   |   |   |   |
-| Product with Fourth-Most Rows  |   |   | Yes/No  | NA  |
-| Num Rows for that Product  |   |   |   |   |
-| Num Single Record Products  |   |   |   |   |
-| Year with Highest Portion of Owner Rows  |   |   | Yes/No  | NA |
-| Fraction of Rows from Owners in that Year  |   |   |   |   |
-| Year with Lowest Portion of Owner Rows  |   |   | Yes/No  | NA |
-| Fraction of Rows from Owners in that Year  |   |   |   |   |
+| Null_TS  |7,123,781|7,123,792|-11|0%|
+| Null_DT  |0|0|0|0%|
+| Null_Local  |234,839|234843|-4|0%|
+| Null_CN  |0|0|0|0%|
+| Num 5 on High Volume Cards  |14987|14987|No|NA|
+|  Num Rows for Number 5 |460325|460630|-305|0%|
+| Num Rows for 18736  |12153|12153|0|0%|
+| Product with Most Rows  |banana organic|banana organic|No|NA|
+| Num Rows for that Product  |908,639|908,639|0|0%|
+| Product with Fourth-Most Rows  |avocado hass organic|avocado hass organic|No|0%|
+| Num Rows for that Product  |456,771|456,771|0|0%|
+| Num Single Record Products  |2741|2769|-28|0%|
+| Year with Highest Portion of Owner Rows  |2010|2010|No|NA|
+| Fraction of Rows from Owners in that Year  |.7422|.7422|0|0%|
+| Year with Lowest Portion of Owner Rows  |2017|2017|No|NA|
+| Fraction of Rows from Owners in that Year  |.7513|.7513|0|0%|
 
 ## Reflections
 
 <!-- I'd love to get 100-200 words on your experience doing the Wedge Project --> 
+This project was stressfull and had me wishing I had more Python, Github, text editor and GBQ experince on basics before hand.  I know I learned a lot from this.  It was stressfull but has me wishing I understood why I ran into so many issues that others did not.  I wish I understood why my data types caused so many issues here. 
