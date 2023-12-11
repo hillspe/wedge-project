@@ -4,19 +4,23 @@
 ## Wedge Project
 
 <!-- Any general commentary you'd like to say about the project --> 
-
+General commentary.  This was a difficult project that I learned and grew with.
 
 ### Task 1
 
 * Files for this task: 
 <!--  List of file or files here  --> 
-
+WedgeZipOfZips_Big
+extracted_zips_big
+clean_csvs
 Loads all data into GBQ data set.
 
 `File1 Name`: 
 Description of what this file does.
 
-<!--  Repeat for each file  --> 
+WedgeZipOfZips_Big - the source files that are compreessed and in seperate folders
+extracted_zips_big - the files from the above that are un-compressed and in a .csv
+clean_csvs - the files whith the cleaning completed on turned into a .txt
 
 
 
@@ -24,12 +28,12 @@ Description of what this file does.
 
 * Files for this task: 
 <!--  List of file or files here  --> 
-
+all 53  tables in leafy-sunrise-403222.wedge_data.transArchive
 Loads all data into GBQ data set.
 
 `File1 Name`: 
 Description of what this file does.
-
+all 53  tables in leafy-sunrise-403222.wedge_data.transArchive - these created from task 1 uploading of the "clean_csvs"
 <!--  Repeat for each file  --> 
 	
 
@@ -37,12 +41,13 @@ Description of what this file does.
 
 * Files for this task: 
 <!--  List of file or files here  --> 
-
+all 53  tables in leafy-sunrise-403222.wedge_data.transArchive
+reporting.db
 Loads all data into GBQ data set.
 
 `File1 Name`: 
 Description of what this file does.
-
+all 53  tables in leafy-sunrise-403222.wedge_data.transArchive - these used to create the reporting.db
 <!--  Repeat for each file  --> 
 
 
@@ -58,8 +63,8 @@ When calculating relative difference, use the formula
 
 |  Query  |  Your Results  |  John's Results | Difference | Rel. Diff | 
 |---|---|---|---|---|
-| Total Rows  | 5  |   |   |   |
-| January 2012 Rows  |   |   |   |   |
+| Total Rows  |85,760,139|85,760,139|0|0%|
+| January 2012 Rows  |1,070,907|1,070,907|   |   |
 | October 2012 Rows  |   |   |   |   |
 | Month with Fewest  |   |   | Yes/No  | NA  |
 | Num Rows in Month with Fewest  |   |   |   |   |
